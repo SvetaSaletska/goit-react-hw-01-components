@@ -1,0 +1,21 @@
+.item {
+
+}
+
+
+.label {
+  display: block;
+  justify-content: center;
+  padding-top: 10px;
+  color: white;
+}
+
+.percentage {
+  display: block;
+text-align: center;
+padding-left: 36px;
+padding-right: 36px;
+padding-top: 30px;
+padding-bottom: 30px;
+color: white;
+}
