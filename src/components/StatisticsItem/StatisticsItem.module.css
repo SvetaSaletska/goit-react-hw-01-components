@@ -1,21 +1,18 @@
-.item {
-
-}
-
-
 .label {
   display: block;
-  justify-content: center;
+  text-align: center;
   padding-top: 10px;
   color: white;
+  font-size: small;
 }
 
 .percentage {
   display: block;
-text-align: center;
-padding-left: 36px;
-padding-right: 36px;
-padding-top: 30px;
-padding-bottom: 30px;
-color: white;
+  font-size: large;
+  text-align: center;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
 }
