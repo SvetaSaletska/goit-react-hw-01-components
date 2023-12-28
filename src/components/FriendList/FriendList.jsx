@@ -3,7 +3,7 @@ import css from 'components/FriendList/FriendList.module.css';
 
 
 export const FriendList = ({ friends }) => {
-  const {isOnline} = friends;
+  const { isOnline } = friends;
 
   let bgc = '';
 
